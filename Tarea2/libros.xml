@@ -1,0 +1,16 @@
+<Catalog>
+    <Books>
+        <Book id="1" precio="7.95">
+            <Title>Los androides sueñan con ovejas eléctricas?</Title>
+            <Author>Philip K. Dick</Author>
+        </Book>
+        <Book id="5" precio="5.95">
+            <Title>El color de la magia</Title>
+            <Author>Terry Pratchett</Author>
+        </Book>
+        <Book id="7" precio="6.95">
+            <Title>El ojo del mundo</Title>
+            <Author>Robert Jordan</Author>
+        </Book>
+    </Books>
+</Catalog>
